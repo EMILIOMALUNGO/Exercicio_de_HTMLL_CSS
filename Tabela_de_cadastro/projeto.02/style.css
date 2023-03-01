@@ -1,0 +1,17 @@
+
+fieldset{
+    color: white;
+    width: 70%;
+    background-color: rgb(94, 117, 117);
+  padding: 20px;
+}
+.info1{
+  display:table-cell;
+  float: left;
+  margin-right:5px;
+}
+.info2{
+  display:table-cell;
+  float: left;
+ margin-right:5px;
+}
